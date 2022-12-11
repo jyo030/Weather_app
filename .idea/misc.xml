@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/DELL/Desktop/WEATHER_APP/app/src/main/res/drawable/buttondesign.xml" value="0.1" />
+        <entry key="..\:/Users/DELL/Desktop/WEATHER_APP/app/src/main/res/drawable/edittextdesign.xml" value="0.1" />
+        <entry key="..\:/Users/DELL/Desktop/WEATHER_APP/app/src/main/res/layout/activity_city_finder.xml" value="0.2" />
+        <entry key="..\:/Users/DELL/Desktop/WEATHER_APP/app/src/main/res/layout/activity_main.xml" value="0.176" />
+        <entry key="..\:/WEATHER_APP/app/src/main/res/layout/aboutus.xml" value="0.152" />
+        <entry key="..\:/WEATHER_APP/app/src/main/res/layout/activity_aboutus.xml" value="0.1" />
+        <entry key="..\:/WEATHER_APP/app/src/main/res/layout/activity_city_finder.xml" value="0.25416666666666665" />
+        <entry key="..\:/WEATHER_APP/app/src/main/res/layout/activity_main.xml" value="0.13072916666666667" />
+        <entry key="..\:/WEATHER_APP/app/src/main/res/layout/activity_splashactivity.xml" value="0.136" />
+        <entry key="..\:/WEATHER_APP/app/src/main/res/menu/main_menu.xml" value="0.1" />
+        <entry key="..\:/projects/WEATHER_APP/WEATHER_APP/app/src/main/res/layout/activity_aboutus.xml" value="0.22146739130434784" />
+        <entry key="..\:/projects/WEATHER_APP/WEATHER_APP/app/src/main/res/layout/activity_city_finder.xml" value="0.22146739130434784" />
+        <entry key="..\:/projects/WEATHER_APP/WEATHER_APP/app/src/main/res/layout/activity_main.xml" value="0.22146739130434784" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
